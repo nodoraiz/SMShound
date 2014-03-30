@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SMShound.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SegundosEntreCiclos" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="FicheroSalida" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MensajesProcesados.csv</Value>
+    </Setting>
+    <Setting Name="FicheroError" Type="System.String" Scope="User">
+      <Value Profile="(Default)">debug.txt</Value>
+    </Setting>
+    <Setting Name="FicheroEnlaces" Type="System.String" Scope="User">
+      <Value Profile="(Default)">enlaces.txt</Value>
+    </Setting>
+    <Setting Name="MaximoMensajesRepetidosHastaFin" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="SMTPservidor" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SMTPpuerto" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">25</Value>
+    </Setting>
+    <Setting Name="SMTPusarSSL" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="SMTPusuario" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SMTPclave" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="FicheroPalabrasClave" Type="System.String" Scope="User">
+      <Value Profile="(Default)">palabras_clave.txt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

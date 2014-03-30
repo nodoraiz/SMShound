@@ -1,0 +1,24 @@
+﻿
+######################
+######################
+##	HtmlAgilityPack	##
+######################
+######################
+
+Esta licencia gobierna el uso del software adjunto. Si usted utiliza el software, ello supone que acepta esta licencia. Si no acepta la licencia, no utilice el software.
+1. Definiciones
+Los términos "reproducir", "reproducción" y "distribución" tienen aquí el mismo significado que en las leyes de Copyright de EE.UU.
+Una “contribución” es el software original o cualquier añadido o cambio realizado sobre el software.
+Un “colaborador” es cualquier persona que distribuye su contribución en el marco de esta licencia.
+“Patentes licenciadas” son los derechos de patente del colaborador que se refieren directamente a su contribución.
+Principio de la páginaPrincipio de la página
+2. Asignación de derechos
+(A) Derechos de Copyright- Dentro de los términos de esta licencia, incluyendo las condiciones y limitaciones de la licencia descritas en la sección 3, cada colaborador le otorga una licencia de copyright no exclusiva, mundial y exenta de royalties para reproducir su contribución, preparar trabajos derivados de su contribución y distribuir su contribución en cualquier producto derivado creado por usted.
+(B) Derechos de patente- Dentro de los términos de esta licencia, incluyendo las condiciones y limitaciones descritas en la sección 3, cada colaborador le otorga una licencia no exclusiva, mundial y exenta de royalties sobre las patentes licenciadas para realizar, utilizar, vender, ofrecer a la venta, importar y/o distribuir sus contribuciones en el software o productos derivados de la contribución en el software.
+Principio de la páginaPrincipio de la página
+3. Condiciones y Limitaciones
+(A) No se otorgan licencia de Marcas- Esta licencia no otorga derechos para utilizar ningún nombre, logo o marca de los colaboradores.
+(B) Si inicia alguna reclamación de patente contra cualquier colaborador sobre patentes que usted considera que han sido infringidas por el software, su licencia de patente del citado colaborador para el software cesa automáticamente.
+(C) Si distribuye cualquier parte del software, debe conservar todos los documentos de copyright, patentes, marcas y atribución presentes en el software.
+(D) Si distribuye cualquier parte del software en forma de código fuente, puede hacerlo únicamente bajo el marco de esta licencia incluyendo una copia completa de esta licencia junto con su distribución. Si distribuye cualquier parte del software en forma de código objeto o compilado, puede hacerlo únicamente bajo una licencia que cumpla con los términos de la presente licencia.
+(E) El software se licencia "tal cual". Usted asume todo el riesgo al utilizarlo. El Propietario no ofrece garantías expresas ni implícitas, ni condiciones ni asume responsabilidad alguna. Las leyes locales de su país o región pueden otorgarle derechos adicionales como consumidor, los cuales no se ven alterados por esta licencia. Hasta donde lo permiten las leyes locales, el Propietario rechaza asumir ninguna garantía de comercialización, adaptación para un fin concreto o incumplimiento de la ley.
